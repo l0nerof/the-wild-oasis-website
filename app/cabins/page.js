@@ -4,7 +4,7 @@ import Spinner from "@/app/_components/Spinner";
 import Filter from "@/app/_components/Filter";
 import ReservationReminder from "@/app/_components/ReservationReminder";
 
-// export const revalidate = 3600;
+export const revalidate = 3600;
 
 export const metadata = {
   title: "Cabins",

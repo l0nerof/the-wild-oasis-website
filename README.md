@@ -14,3 +14,4 @@ The Wild Oasis is the client-side version of a hotel management application. Use
 - **React.js**
 - **Tailwind CSS**
 - **Supabase**
+- **Context API**

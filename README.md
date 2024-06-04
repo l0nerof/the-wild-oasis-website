@@ -1,4 +1,4 @@
-# The Wild Oasis (client version)
+# The Wild Oasis (Client Version)
 
 The Wild Oasis is the client-side version of a hotel management application. Users can register, search for available rooms, and make reservations for their preferred dates. This project was developed to enhance skills in Next.js, Next.js App Router, Supabase, and Tailwind CSS.
 
